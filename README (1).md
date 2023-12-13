@@ -8,12 +8,7 @@
 * [Conclusions](#conclusions)
 
 ## Conclusions
-- Fall season has the most bike share count, where as the Spring has the minimum count.
-- The number of counts in 2019 is significantly (33.33%) more than in 2018.
-- The number of counts in Jun, July, Aug and Sep are the most.
-- The count is more when the weather is clear.
-- The r2 score for the train and test datasets were: 0.7395, 0.7752
-- We see, the important features in the final model were:
+-
     - year, windspeed, spring, summer, winter, Jan, Sep, Sun, LightSnow and Mist.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
