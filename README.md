@@ -9,7 +9,12 @@
 
 ## Conclusions
 -
-    - year, windspeed, spring, summer, winter, Jan, Sep, Sun, LightSnow and Mist.
+   - As, we have seen the high imbalance in the data, so we have used multiple metrics.
+   - The final model has
+        - Accuracy: 0.85
+        - F-1 score: 0.94
+        - Recall: 0.93
+        - Precision: 0.94
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
